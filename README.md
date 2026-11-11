@@ -1,0 +1,2 @@
+# PIT_GudraisPirkumuSaraksts_prototips
+Kursa Programmas Izstrādes Tehnoloģija progammatūras prototips
