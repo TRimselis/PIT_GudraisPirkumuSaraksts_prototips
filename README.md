@@ -4,7 +4,7 @@ Vienkāršs Python un Streamlit prototips.
 
 ## Kā palaist programmu
 
-1. Atver šos failus VS Code.
+1. Atver failu app.py VS Code.
 2. Atver termināli.
 3. Instalē Streamlit:
 
