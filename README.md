@@ -28,3 +28,7 @@ Vienkāršs Python un Streamlit prototips.
 ## Svarīgi
 
 Produktu cenas un veikalu nodaļu secība ir tikai piemēri. Tās nav īstās veikalu cenas vai precīzi veikalu plāni.
+
+## Video ar programmu darbībā
+
+https://youtu.be/YzpIDPjsBh4
