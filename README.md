@@ -6,9 +6,9 @@ Vienkāršs Python un Streamlit prototips.
 
 1. Atver šos failus VS Code.
 2. Atver termināli.
-3. Instalē nepieciešamo bibliotēku:
+3. Instalē Streamlit:
 
-   `python -m pip install -r requirements.txt`
+   `python -m pip install streamlit`
 
 4. Palaid programmu:
 
